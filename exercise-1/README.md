@@ -13,6 +13,6 @@ The purpose of this exercise is to practice the steps you'll need to use in futu
 ---
 Things I ate for breakfast:
 
-* 2 slices of bread
-* A couple scoops of jelly
-* A few tablespoons of peanut butter
+1. 2 slices of bread
+2. A couple scoops of jelly
+3. A few tablespoons of peanut butter
